@@ -1,0 +1,12 @@
+package:
+  name: visapy
+  version: 0.0.1
+
+build:
+  number: 1
+
+requirements:
+  run:
+    - python
+about:
+  summary: This package helps you to easily create an agent-based model (ABM) under the VISA protocol.
